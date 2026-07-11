@@ -5,6 +5,13 @@ An AI-powered Spam Email Detection web application built using **Machine Learnin
 The application classifies emails as **Spam** or **Safe (Ham)**, provides a confidence score, explains the prediction using AI, displays email statistics, analytics dashboard, and maintains prediction history.
 
 ---
+## 🎥 Project Demo
+
+## 📹 Demo Video:
+https://drive.google.com/file/d/1DPL__RV1e18YDBAPqSUyMXrZtAHs6j0Q/view?usp=drive_link
+
+## Live Demo
+https://spamshield-ai-teambdaac4.streamlit.app/
 
 # 🚀 Features
 
